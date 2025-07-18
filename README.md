@@ -1,6 +1,5 @@
 # Unity Shader Graph Subgraphs Collection
-
-This is a collection of useful Shader Graph **subgraphs** extracted from Unity sample projects.
+Shader Graph **subgraphs** extracted from Unity sample projects.
 
 ## ✅ Features
 
